@@ -1,5 +1,0 @@
-25-12-29 22:53:31.057 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl 
-25-12-29 22:53:31.437 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 9090 (http) with context path '/journal' 
-25-12-29 22:53:31.447 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete 
-25-12-29 22:53:31.463 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete 
-25-12-29 22:53:31.486 [main] INFO  c.j.JournalApp.JournalApplication - Started JournalApplication in 37.134 seconds (process running for 38.367) 
